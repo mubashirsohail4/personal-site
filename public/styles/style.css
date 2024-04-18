@@ -1,7 +1,7 @@
 /* Font importer */
 @font-face {
   font-family: "Rubik";
-  src: url(/src/assets/fonts/Rubik/Rubik-VariableFont_wght.ttf);
+  src: url(../../src/assets/fonts/Rubik/Rubik-VariableFont_wght.ttf);
 }
 
 /* Gradient background animations */
